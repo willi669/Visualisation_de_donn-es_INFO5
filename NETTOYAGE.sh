@@ -1,0 +1,1 @@
+rm -f DATA/Arome*.grib2 DATA/Arome*.nc KML/Arome*.kml KML/Arome*.kmz KML/IMAGES/Arome*.png
